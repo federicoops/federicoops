@@ -13,7 +13,7 @@ Hi! I have some interesting repositories here in my profile. Check them out 😉
   1. coming soon...
 
 #### 🥼 C++ experiments
-  1. [lambdaParamPacker][https://github.com/federicorossifr/LambdaParameterPacker]: simple header to achieve variable signature lambda/functors inside STL containers via parameter packing and std::any 
+  1. [lambdaParamPacker](https://github.com/federicorossifr/LambdaParameterPacker): simple header to achieve variable signature lambda/functors inside STL containers via parameter packing and std::any 
   2. section in expansion 😴
  
 #### 🤖 Simulation
