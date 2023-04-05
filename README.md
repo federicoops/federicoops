@@ -9,9 +9,6 @@ Hi! I have some interesting repositories here in my profile. Check them out 😉
   2. [OpenGLSceneBuilder](https://github.com/federicorossifr/OpenGLSceneBuilder): a rudimental scene compositor using JSON scenes and OpenGL for rendering. Texture, lighting and shadows are supported.
   3. [TensorPosit](https://github.com/federicorossifr/tensorposit): the ol' good, mighty Tensorflow, now with a Posit flavour.
 
-#### 🌍 Web Development
-  1. coming soon...
-
 #### 🥼 C++ experiments
   1. [lambdaParamPacker](https://github.com/federicorossifr/LambdaParameterPacker): simple header to achieve variable signature lambda/functors inside STL containers via parameter packing and std::any 
   2. section in expansion 😴
