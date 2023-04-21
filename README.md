@@ -16,4 +16,4 @@ Hi! I have some interesting repositories here in my profile. Check them out 😉
 #### 🤖 Simulation
   1. [sep8Emulator](https://github.com/federicorossifr/sep8emulator): C++ emulator of a didactic 16-bit processor. A bit outdated, still fancy. One of my first emulation projects
   2. [QemuPPU](https://github.com/federicorossifr/qemu-ppu): A qemu version with a very limited Posit Processing Unit PCI device, just for discovery purposes (but it works 🤌)
-  3. [ppu-driver](https://github.com/federicorossifr/ppu-driver): Nothing works without a driver, am i right? So here's the driver for the PCI PPU. Working well with DMA. 🛑 May not follow all the best practices for Linux Kernel development though 🛑.
+  3. [ppu-driver](https://github.com/federicorossifr/ppu-driver): Nothing works without a driver. So here's the driver for the PCI PPU. Working well with DMA. 🛑 May not follow all the best practices for Linux Kernel development though 🛑.
