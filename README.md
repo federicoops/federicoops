@@ -1,4 +1,4 @@
-# Federico Rossi 🕵️‍♂️
+# Federico Rossi, Ph.D. 🕵️‍♂️
 
 ### 🚀 Software Developer | Research Fellow 
 
