@@ -1,6 +1,6 @@
 # Federico Rossi, Ph.D. 🕵️‍♂️
 
-### 🚀 Software Developer | Research Fellow 
+### 🚀 AI and HPC researcher | Software/Hardware engineering  
 
 Hi! I have some interesting repositories here in my profile.
 
