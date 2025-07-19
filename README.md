@@ -2,8 +2,6 @@
 
 ### 🚀 
 
-Hi! I have some interesting repositories here in my profile.
-
 #### 🔬 Research Items
   1. [cppposit](https://github.com/federicorossifr/cppposit) C++17 Posit library
   2. [dfarc](https://github.com/federicorossifr/dfarc) Decoding Free ARithmetic Core generator: generation of 1-D look-up tables with integer space-transformation for decoding-free real number arithmetic operations
